@@ -9,23 +9,21 @@
 ### Latest:
 -----------------------------
 
-**Psychology of High Performance Organizations .. and Burnout...**
+**Shenzhen 2016 - Immutable Service Delivery** 
 
-[Video](https://www.youtube.com/watch?v=MPk9XVC78fw&feature=youtu.be)
+[Slides](http://www.slideshare.net/botchagalupe/immutable-service-delivery-shenzhen-2016)
 
-[Slides](http://www.slideshare.net/botchagalupe/psychology-and-high-performance-organizations)
+**Dockercon US 2016 - Immutable Awesomeness** 
+
+[Video](https://www.youtube.com/watch?v=-Y_ZhvEaZX8)
+
+[Slides](http://www.slideshare.net/Docker/immutable-awesomeness-by-john-willis-and-josh-corman)
 
 **Devops Enterprise Summit EU 2016 - Faster Cheaper Safer .. How? Edwards and Willis**
 
 [Video -  Not available yet](Not availbe yet)
 
 [Slides](http://www.slideshare.net/botchagalupe/does16-london-better-faster-cheaper-how)
-
-**Dockercon USA 2016 Immutable Awesomeness**
-
-[Video -  Not available yet](Not availbe yet)
-
-[Slides](http://www.slideshare.net/botchagalupe/dockercon-usa-2016-immutable-awesomeness)
 
 ### Devops State of the Union
 -----------------------------
@@ -47,6 +45,7 @@
 
 **Qcon London 2016**
 
+[Video](https://www.infoq.com/presentations/it-burnout)
 [Slides](http://www.slideshare.net/botchagalupe/burnout-qcon-london-2016)
 
 ### Immutable Infrastructure and Supply Chain
