@@ -1,9 +1,13 @@
 # Botchagalupe Presentations 
 >> List of all my presentations over the past five years. 
 >>> John Willis Bio
+>>
 [Twitter:  botchagalupe](https://twitter.com/botchagalupe)
+>>
 [Linkedin: johnwillisatlanta](https://www.linkedin.com/in/johnwillisatlanta)
+>>
 [Podcast:  Devops Cafe](https://devopscafe.org)
+>>
 [Author:   Devops Handbook](http://itrevolution.com/devops-handbook)
 
 ## 2016 
