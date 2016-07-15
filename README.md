@@ -3,6 +3,10 @@
 >>> John Willis 
 >>>>  Twitter: https://twitter.com/botchagalupe
 >>>>  Linkedin  https://www.linkedin.com/in/johnwillisatlanta 
+>>> Podcast: Devops Cafe  
+>>>>  Twitter: https://devopscafe.org
+>>> Author: Itrevolution  
+>>>>  Twitter: http://itrevolution.com/devops-handbook
 
 ## 2016 
 
