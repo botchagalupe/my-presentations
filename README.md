@@ -15,6 +15,16 @@
 ### Latest:
 -----------------------------
 
+**Agile Atlanta 2016 - Turning Human Capital into High Performance Orginizations**
+
+[Slides](http://www.slideshare.net/botchagalupe/turning-human-capital-into-high-performance-organizational-capital)
+
+**Devops Enterprise Summit EU 2016 - Faster Cheaper Safer .. How? Edwards and Willis**
+
+[Video](https://www.youtube.com/watch?v=j9fC4raB-bA)
+
+[Slides](http://www.slideshare.net/botchagalupe/does16-london-better-faster-cheaper-how)
+
 **Shenzhen 2016 - Immutable Service Delivery** 
 
 [Slides](http://www.slideshare.net/botchagalupe/immutable-service-delivery-shenzhen-2016)
@@ -25,11 +35,7 @@
 
 [Slides](http://www.slideshare.net/Docker/immutable-awesomeness-by-john-willis-and-josh-corman)
 
-**Devops Enterprise Summit EU 2016 - Faster Cheaper Safer .. How? Edwards and Willis**
 
-[Video -  Not available yet](Not availbe yet)
-
-[Slides](http://www.slideshare.net/botchagalupe/does16-london-better-faster-cheaper-how)
 
 ### Devops State of the Union
 -----------------------------
