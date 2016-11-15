@@ -15,6 +15,10 @@
 ### Latest:
 -----------------------------
 
+**All Day Devops 2016 - Turning Human Capital into High Performance Orginizations**
+
+[Slides](http://www.slideshare.net/botchagalupe/all-daydevops-2016-turning-human-capital-into-high-performance-organizational-capital)
+
 **Agile Atlanta 2016 - Turning Human Capital into High Performance Orginizations**
 
 [Slides](http://www.slideshare.net/botchagalupe/turning-human-capital-into-high-performance-organizational-capital)
