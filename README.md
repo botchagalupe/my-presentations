@@ -59,9 +59,10 @@
 
 [Slides](http://www.slideshare.net/botchagalupe/burnout-qcon-london-2016)
 
-**Qcon London 2016**
+**Qcon London 2016 - Burnout**
 
 [Video](https://www.infoq.com/presentations/it-burnout)
+
 [Slides](http://www.slideshare.net/botchagalupe/burnout-qcon-london-2016)
 
 ### Immutable Infrastructure and Supply Chain
