@@ -19,6 +19,8 @@
 
 [Slides](http://www.slideshare.net/botchagalupe/all-daydevops-2016-turning-human-capital-into-high-performance-organizational-capital)
 
+[Video] (https://www.youtube.com/watch?v=l-8V3wNAHvA&t=45m28s)
+
 **Agile Atlanta 2016 - Turning Human Capital into High Performance Orginizations**
 
 [Slides](http://www.slideshare.net/botchagalupe/turning-human-capital-into-high-performance-organizational-capital)
