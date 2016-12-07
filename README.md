@@ -20,7 +20,7 @@
 [Video] (https://www.youtube.com/watch?v=TvgKHNts0WQ)
 
 
-**Devopsdays Hashville - Turning Human Capital into High Performance Orginizations**
+**Devopsdays Nashville - Turning Human Capital into High Performance Orginizations**
 
 [Slides](http://www.slideshare.net/botchagalupe/all-daydevops-2016-turning-human-capital-into-high-performance-organizational-capital)
 
