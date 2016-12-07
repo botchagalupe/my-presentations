@@ -15,6 +15,11 @@
 ### Latest:
 -----------------------------
 
+**Devops Enterprise Summit 2016 - Beyond the Phoenix Prjoect**
+
+[Video] (https://www.youtube.com/watch?v=TvgKHNts0WQ)
+
+
 **Devopsdays Hashville - Turning Human Capital into High Performance Orginizations**
 
 [Slides](http://www.slideshare.net/botchagalupe/all-daydevops-2016-turning-human-capital-into-high-performance-organizational-capital)
@@ -22,7 +27,7 @@
 [Video] (https://www.youtube.com/watch?v=-QJ2p4w4_2Q)
 
 
-**All Day Devops 2016 - Turning Human Capital into High Performance Orginizations**
+**All Day Devops 2016 - Turning Human Capital into High Performance Orginizations (long Version)**
 
 [Slides](http://www.slideshare.net/botchagalupe/all-daydevops-2016-turning-human-capital-into-high-performance-organizational-capital)
 
