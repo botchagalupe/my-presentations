@@ -15,6 +15,11 @@
 ### Latest:
 -----------------------------
 
+**Devops Connect(LA) 2016 - Bad Equilibruim**
+
+[Slides] (http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2016-la)
+
+
 **Devops Enterprise Summit 2016 - Beyond the Phoenix Prjoect**
 
 [Video] (https://www.youtube.com/watch?v=TvgKHNts0WQ)
