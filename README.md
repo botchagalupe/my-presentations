@@ -10,6 +10,16 @@
 >>
 [Author:   Devops Handbook](http://itrevolution.com/devops-handbook)
 
+[Author:   Linux Foundation (EDX) Introduction to DevOps: Transforming and Improving Operations
+](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
+
+## 2017 
+
+### Latest:
+-----------------------------
+
+[Slides] (http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2017-rsac)
+
 ## 2016 
 
 ### Latest:
