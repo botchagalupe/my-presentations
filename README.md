@@ -9,7 +9,7 @@
 [Podcast:  Devops Cafe](https://devopscafe.org)
 >>
 [Author:   Devops Handbook](http://itrevolution.com/devops-handbook)
-
+>>
 [Author:   Linux Foundation (EDX) Introduction to DevOps: Transforming and Improving Operations
 ](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
 
