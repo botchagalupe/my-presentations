@@ -2,6 +2,8 @@
 >> List of all my presentations over the past five years. 
 >>> John Willis Bio
 >>
+[My Bio:]http://itrevolution.com/authors/john-willis/
+>>
 [Twitter:  botchagalupe](https://twitter.com/botchagalupe)
 >>
 [Linkedin: johnwillisatlanta](https://www.linkedin.com/in/johnwillisatlanta)
