@@ -31,6 +31,13 @@
 
 [Slides] (http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2016-la)
 
+**Alibaba Cloud Conference - Keynote Devops Track - Hangzhou China - 2016 - Docker Enterprise**
+
+[Slides] (http://www.slideshare.net/botchagalupe/alibaba-cloud-conference-2016-docker-enterprise)
+
+**Alibaba Cloud Conference - Keynote Open Sourse Community Track - Hangzhou China - 2016 - Docker Open Source**
+
+[Slides] (http://www.slideshare.net/botchagalupe/alibaba-cloud-conference-2016-docker-open-source)
 
 **Devops Enterprise Summit 2016 - Beyond the Phoenix Prjoect**
 
