@@ -18,7 +18,7 @@
 ### Latest:
 -----------------------------
 
-**Breaking Bad Equilibrium - Devops Connect 2017 RSAC**
+**Keynote - RSA RSAC Devops Connect 2017 -Breaking Bad Equilibrium**
 
 [Slides] (http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2017-rsac)
 
