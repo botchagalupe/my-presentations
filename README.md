@@ -24,6 +24,8 @@
 
 [Slides] (http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2017-rsac)
 
+[Video] (https://youtu.be/W3h3cyFteXs?list=PLotLY1RC8HosrR60aQyafck5qWn2cteQq)
+
 ## 2016 
 
 ### Latest:
