@@ -440,3 +440,15 @@
 
 -----------------------------
 
+# Devopsdays Jams
+
+**Devopsdays Austin 2017**
+
+[Botchagalupe and the Four Horsemen](https://www.youtube.com/watch?v=3zR9qGACDjY)
+
+**Devopsdays Silicon Valley 20127**
+
+[James and John Jam](https://www.youtube.com/watch?v=B6q_9ypplqc)
+
+-----------------------------
+
