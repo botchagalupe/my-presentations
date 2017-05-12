@@ -448,9 +448,13 @@
 
 [Botchagalupe and the Four Horsemen](https://www.youtube.com/watch?v=3zR9qGACDjY)
 
+[Secret Agent Man](https://www.youtube.com/watch?v=pNRfKhwcgGk&t=5s)
+
 **Devopsdays Silicon Valley 20127**
 
 [James and John Jam](https://www.youtube.com/watch?v=B6q_9ypplqc)
+
+[John and John Jam](https://www.youtube.com/watch?v=a4mdslvSKbM)
 
 -----------------------------
 
