@@ -15,7 +15,7 @@
 [Author:   Linux Foundation (EDX) Introduction to DevOps: Transforming and Improving Operations
 ](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
 
-[Devopsdays Music Jams](#Devopsdays-Music-Jams)
+[Devopsdays Music Jams](#devopsdays-music-jams)
 
 ## 2017 
 
@@ -442,7 +442,7 @@
 
 -----------------------------
 
-# Devopsdays-Music-Jams
+# Devopsdays Music Jams
 
 **Devopsdays Austin 2017**
 
