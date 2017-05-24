@@ -28,6 +28,10 @@
 
 [Video] (https://youtu.be/W3h3cyFteXs?list=PLotLY1RC8HosrR60aQyafck5qWn2cteQq)
 
+**Evolve 2017 Las Vegas - Devops, Docker and Security**
+
+[Slides] https://www.slideshare.net/botchagalupe/evolve-2017-vegas-devops-docker-and-security
+
 ## 2016 
 
 ### Latest:
