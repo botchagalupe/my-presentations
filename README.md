@@ -6,6 +6,8 @@
 >>
 [Twitter:  botchagalupe](https://twitter.com/botchagalupe)
 >>
+[Recent Blog Posts](https://medium.com/@johnwillis)
+>>
 [Linkedin: johnwillisatlanta](https://www.linkedin.com/in/johnwillisatlanta)
 >>
 [Podcast:  Devops Cafe](https://devopscafe.org)
