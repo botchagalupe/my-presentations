@@ -30,7 +30,9 @@
 
 [Video] (https://www.youtube.com/watch?v=vHYu-fna-Cs)
 
-https://www.youtube.com/watch?v=vHYu-fna-Cs
+**DevopsDays Dallas Executive Summit - 2017 - Why Executives Can't Change**
+
+[Slides] (https://www.slideshare.net/secret/9RTEsy986ZGroJ)
 
 **Keynote - RSA RSAC Devops Connect 2017 -Breaking Bad Equilibrium**
 
