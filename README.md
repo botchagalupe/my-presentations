@@ -24,6 +24,14 @@
 ### Latest:
 -----------------------------
 
+**Keynote - DevopsDays Dallas - 2017 - Devops Kaizen**
+
+[Slides] (https://www.slideshare.net/secret/GNHCPggXhrh1Zc)
+
+[Video] (https://www.youtube.com/watch?v=vHYu-fna-Cs)
+
+https://www.youtube.com/watch?v=vHYu-fna-Cs
+
 **Keynote - RSA RSAC Devops Connect 2017 -Breaking Bad Equilibrium**
 
 [Slides] (http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2017-rsac)
