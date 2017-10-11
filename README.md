@@ -24,6 +24,10 @@
 ### Latest:
 -----------------------------
 
+**Serverless COnference NYC 2017 - The Art of the Possible**
+
+[Slides] (https://www.slideshare.net/botchagalupe/art-of-the-possible-serverless-conference-nyc-2017)
+
 **Keynote - DevopsDays Dallas - 2017 - Devops Kaizen**
 
 [Slides] (https://www.slideshare.net/secret/GNHCPggXhrh1Zc)
