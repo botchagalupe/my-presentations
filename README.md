@@ -19,16 +19,22 @@
 
 [Devopsdays Music Jams](#devopsdays-music-jams)
 
+[Devopsdays Turbo Encabulator](https://www.youtube.com/watch?v=iCPOWHgUKyo)
+
 ## 2017 
 
 ### Latest:
 -----------------------------
 
+**Devopsdays NYC 2018 Keynote - Devops What a Long Strange Trip It's Been**
+
+[Video] (https://www.youtube.com/watch?v=Ot4GvOtq5XY)
+
 **Cyber Chicago 2017 - You Build It, You Secure It**
 
 [Slides] (https://www.slideshare.net/secret/pJhh1U93hG7O9J)
 
-**Serverless COnference NYC 2017 - The Art of the Possible**
+**Serverless Conference NYC 2017 - The Art of the Possible**
 
 [Slides] (https://www.slideshare.net/botchagalupe/art-of-the-possible-serverless-conference-nyc-2017)
 
