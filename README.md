@@ -21,7 +21,7 @@
 
 [Devopsdays Turbo Encabulator](https://www.youtube.com/watch?v=iCPOWHgUKyo)
 
-## 2017 
+## 2018 
 
 ### Latest:
 -----------------------------
@@ -29,6 +29,12 @@
 **Devopsdays NYC 2018 Keynote - Devops What a Long Strange Trip It's Been**
 
 [Video] (https://www.youtube.com/watch?v=Ot4GvOtq5XY)
+
+## 2017 
+
+**You Build It, You Secure It - QCON SF**
+
+[Video] (https://www.infoq.com/presentations/code-security)
 
 **Cyber Chicago 2017 - You Build It, You Secure It**
 
