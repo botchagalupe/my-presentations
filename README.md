@@ -43,6 +43,10 @@
 ### Latest:
 -----------------------------
 
+**Devops Enterprise Summit - 2.5 Hour Symposium: Safety Culture, Lean, and DevOps**
+
+[Video] (https://www.youtube.com/watch?v=gtxtb9z_4FY&feature=youtu.be)
+
 **You Build It, You Secure It - QCON SF**
 
 [Video] (https://www.infoq.com/presentations/code-security)
