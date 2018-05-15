@@ -26,11 +26,22 @@
 ### Latest:
 -----------------------------
 
+**Devopsdays SLC 2018 Keynote - Devops What a Long Strange Trip It's Been**
+
+[Video] (https://www.slideshare.net/botchagalupe/devops-a-long-strange-trip-its-been)
+
+**Devopsdays Austin 2018 Keynote - The Divine and Felonious Nature of CyberSecurity**
+
+[Video] (https://www.slideshare.net/botchagalupe/divine-and-felonios-cyber-security-devopsdays-austin-2018)
+
 **Devopsdays NYC 2018 Keynote - Devops What a Long Strange Trip It's Been**
 
 [Video] (https://www.youtube.com/watch?v=Ot4GvOtq5XY)
 
-## 2017 
+## 2016 
+
+### Latest:
+-----------------------------
 
 **You Build It, You Secure It - QCON SF**
 
