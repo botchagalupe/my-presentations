@@ -25,6 +25,9 @@
 
 ### Latest:
 -----------------------------
+**Devopsdays SLC 2018 Keynote - Devops What a Long Strange Trip It's Been**
+
+[Slides] (https://www.slideshare.net/botchagalupe/devops-a-long-strange-trip-its-been)
 
 **Devopsdays NYC 2018 Keynote - Devops What a Long Strange Trip It's Been**
 
