@@ -4,6 +4,10 @@
 >>
 [My Bio:](http://itrevolution.com/authors/john-willis/)
 >>
+[Author:   Devops Handbook](http://itrevolution.com/devops-handbook)
+>>
+[Author:   BEYOND THE PHOENIX PROJECT (AUDIOBOOK)](https://itrevolution.com/book/beyond-phoenix-project-audiobook/)
+>>
 [Twitter:  botchagalupe](https://twitter.com/botchagalupe)
 >>
 [Recent Blog Posts](https://medium.com/@johnwillis)
@@ -11,8 +15,6 @@
 [Linkedin: johnwillisatlanta](https://www.linkedin.com/in/johnwillisatlanta)
 >>
 [Podcast:  Devops Cafe](https://devopscafe.org)
->>
-[Author:   Devops Handbook](http://itrevolution.com/devops-handbook)
 >>
 [Author:   Linux Foundation (EDX) Introduction to DevOps: Transforming and Improving Operations
 ](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
