@@ -17,6 +17,8 @@
 [Author:   Linux Foundation (EDX) Introduction to DevOps: Transforming and Improving Operations
 ](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
 
+>>> Random Stuff
+>>
 [Devopsdays Music Jams](#devopsdays-music-jams)
 
 [Devopsdays Turbo Encabulator](https://www.youtube.com/watch?v=iCPOWHgUKyo)
