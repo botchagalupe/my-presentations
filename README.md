@@ -497,7 +497,7 @@
 
 -----------------------------
 
-# Devopsdays Music Jams
+# Music Jams
 
 **Devopsdays Austin 2017**
 
@@ -505,11 +505,17 @@
 
 [Secret Agent Man](https://www.youtube.com/watch?v=pNRfKhwcgGk&t=5s)
 
-**Devopsdays Silicon Valley 20127**
+**Devopsdays Silicon Valley 2012**
 
 [James and John Jam](https://www.youtube.com/watch?v=B6q_9ypplqc)
 
 [John and John Jam](https://www.youtube.com/watch?v=a4mdslvSKbM)
+
+**A few of my original songs**
+
+[My Dear Sweet John](https://soundcloud.com/john-willis-7/my-sweet-john)
+
+[My Beiutifiul Baby Boy](https://soundcloud.com/john-willis-7/my-beiutiful-baby-boy)
 
 -----------------------------
 
