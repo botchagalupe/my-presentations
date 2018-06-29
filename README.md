@@ -42,7 +42,7 @@
 
 **Devopsdays SLC 2018 Keynote - Devops What a Long Strange Trip It's Been**
 
-[Slides] (https://www.slideshare.net/secret/pJhh1U93hG7O9J)
+[Slides] (https://www.slideshare.net/botchagalupe/devops-a-long-strange-trip-its-been)
 
 **Devopsdays Austin 2018 Keynote - The Divine and Felonious Nature of CyberSecurity**
 
