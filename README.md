@@ -30,9 +30,19 @@
 ### Latest:
 -----------------------------
 
+**Devops Enterprise Summit 2018 London - Next Generation Infrastructure (A Container Story)**
+
+[Slides] (https://www.slideshare.net/botchagalupe/next-generation-infrastructure-devops-enterprise-summit-2018)
+
+**swapmUP 2018 Keynote - The Divine and Felonious Nature of Cyber Security (A DevSecOps Story)**
+
+[Video] (https://www.youtube.com/watch?v=BSThyNTMlyM)
+
+[Slides] (https://www.slideshare.net/botchagalupe/swampup-2018-the-divine-and-felonious-nature-of-cyber-security)
+
 **Devopsdays SLC 2018 Keynote - Devops What a Long Strange Trip It's Been**
 
-[Video] (https://www.slideshare.net/botchagalupe/devops-a-long-strange-trip-its-been)
+[Slides] (https://www.slideshare.net/secret/pJhh1U93hG7O9J)
 
 **Devopsdays Austin 2018 Keynote - The Divine and Felonious Nature of CyberSecurity**
 
@@ -42,7 +52,7 @@
 
 [Video] (https://www.youtube.com/watch?v=Ot4GvOtq5XY)
 
-## 2016 
+## 2017 
 
 ### Latest:
 -----------------------------
