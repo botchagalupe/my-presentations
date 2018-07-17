@@ -32,6 +32,8 @@
 
 **Devops Enterprise Summit 2018 London - Next Generation Infrastructure (A Container Story)**
 
+[Video] (https://www.youtube.com/watch?v=75DcXGVRxaU)
+
 [Slides] (https://www.slideshare.net/botchagalupe/next-generation-infrastructure-devops-enterprise-summit-2018)
 
 **swapmUP 2018 Keynote - The Divine and Felonious Nature of Cyber Security (A DevSecOps Story)**
