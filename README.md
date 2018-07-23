@@ -162,19 +162,27 @@
 ### Burnout
 -----------------------------
 
+**Qcon London 2016 - Burnout**
+
+[Video](https://www.infoq.com/presentations/it-burnout)
+
+[Slides](http://www.slideshare.net/botchagalupe/burnout-qcon-london-2016)
+
 **Qcon NYC 2016 - Psychology and/of High Performance Organizations**
 
 [Slides](http://www.slideshare.net/botchagalupe/psychology-andof-high-performance-organizations)
 
+**Psychology of High Performance Organizations**
+
+[Video](https://www.youtube.com/watch?v=MPk9XVC78fw)
+
+**Interview - IT Burnout and Mismatch Between Organizational and Personal Values**
+
+[Video](https://www.infoq.com/interviews/john-willis-qcon-london-2016)
+
 **Devopsdays Atlanta 2016 - Keynote**
 
 [Video](https://www.youtube.com/watch?v=E84vWVJyi30)
-
-[Slides](http://www.slideshare.net/botchagalupe/burnout-qcon-london-2016)
-
-**Qcon London 2016 - Burnout**
-
-[Video](https://www.infoq.com/presentations/it-burnout)
 
 [Slides](http://www.slideshare.net/botchagalupe/burnout-qcon-london-2016)
 
