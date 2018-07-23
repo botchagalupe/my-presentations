@@ -168,6 +168,8 @@
 
 **Devopsdays Atlanta 2016 - Keynote**
 
+[Video](https://www.youtube.com/watch?v=E84vWVJyi30)
+
 [Slides](http://www.slideshare.net/botchagalupe/burnout-qcon-london-2016)
 
 **Qcon London 2016 - Burnout**
@@ -175,6 +177,14 @@
 [Video](https://www.infoq.com/presentations/it-burnout)
 
 [Slides](http://www.slideshare.net/botchagalupe/burnout-qcon-london-2016)
+
+**Devopsdays NYC 2015 - Karōjisatsu – In Plain English Burnout Is Killing Us**
+
+[Video](https://itrevolution.com/karojisatsu-in-plain-english-burnout-is-killing-us-video/)
+
+**Dockercon 2017 - Burnout**
+
+[Video](https://www.youtube.com/watch?v=fYkI40AhV7o)
 
 ### Immutable Infrastructure and Supply Chain
 -----------------------------
