@@ -32,9 +32,9 @@
 
 **The 7 Deadly Diseases of DevOps**
 
-[Video] (https://www.youtube.com/watch?v=QQL4WAd5b6E)
+[Video](https://www.youtube.com/watch?v=QQL4WAd5b6E)
 
-[Slides] (https://www.slideshare.net/botchagalupe/the-7-deadly-diseases-of-devops-2019)
+[Slides](https://www.slideshare.net/botchagalupe/the-7-deadly-diseases-of-devops-2019)
 
 ## 2018 
 
@@ -43,27 +43,27 @@
 
 **Devops Enterprise Summit 2018 London - Next Generation Infrastructure (A Container Story)**
 
-[Video] (https://www.youtube.com/watch?v=75DcXGVRxaU)
+[Video](https://www.youtube.com/watch?v=75DcXGVRxaU)
 
-[Slides] (https://www.slideshare.net/botchagalupe/next-generation-infrastructure-devops-enterprise-summit-2018)
+[Slides](https://www.slideshare.net/botchagalupe/next-generation-infrastructure-devops-enterprise-summit-2018)
 
 **swapmUP 2018 Keynote - The Divine and Felonious Nature of Cyber Security (A DevSecOps Story)**
 
-[Video] (https://www.youtube.com/watch?v=BSThyNTMlyM)
+[Video](https://www.youtube.com/watch?v=BSThyNTMlyM)
 
-[Slides] (https://www.slideshare.net/botchagalupe/swampup-2018-the-divine-and-felonious-nature-of-cyber-security)
+[Slides](https://www.slideshare.net/botchagalupe/swampup-2018-the-divine-and-felonious-nature-of-cyber-security)
 
 **Devopsdays SLC 2018 Keynote - Devops What a Long Strange Trip It's Been**
 
-[Slides] (https://www.slideshare.net/botchagalupe/devops-a-long-strange-trip-its-been)
+[Slides](https://www.slideshare.net/botchagalupe/devops-a-long-strange-trip-its-been)
 
 **Devopsdays Austin 2018 Keynote - The Divine and Felonious Nature of CyberSecurity**
 
-[Video] (https://www.slideshare.net/botchagalupe/divine-and-felonios-cyber-security-devopsdays-austin-2018)
+[Video](https://www.slideshare.net/botchagalupe/divine-and-felonios-cyber-security-devopsdays-austin-2018)
 
 **Devopsdays NYC 2018 Keynote - Devops What a Long Strange Trip It's Been**
 
-[Video] (https://www.youtube.com/watch?v=Ot4GvOtq5XY)
+[Video](https://www.youtube.com/watch?v=Ot4GvOtq5XY)
 
 ## 2017 
 
@@ -72,39 +72,39 @@
 
 **Devops Enterprise Summit - 2.5 Hour Symposium: Safety Culture, Lean, and DevOps**
 
-[Video] (https://www.youtube.com/watch?v=gtxtb9z_4FY&feature=youtu.be)
+[Video](https://www.youtube.com/watch?v=gtxtb9z_4FY&feature=youtu.be)
 
 **You Build It, You Secure It - QCON SF**
 
-[Video] (https://www.infoq.com/presentations/code-security)
+[Video](https://www.infoq.com/presentations/code-security)
 
 **Cyber Chicago 2017 - You Build It, You Secure It**
 
-[Slides] (https://www.slideshare.net/secret/pJhh1U93hG7O9J)
+[Slides](https://www.slideshare.net/secret/pJhh1U93hG7O9J)
 
 **Serverless Conference NYC 2017 - The Art of the Possible**
 
-[Slides] (https://www.slideshare.net/botchagalupe/art-of-the-possible-serverless-conference-nyc-2017)
+[Slides](https://www.slideshare.net/botchagalupe/art-of-the-possible-serverless-conference-nyc-2017)
 
 **Keynote - DevopsDays Dallas - 2017 - Devops Kaizen**
 
-[Slides] (https://www.slideshare.net/secret/GNHCPggXhrh1Zc)
+[Slides](https://www.slideshare.net/secret/GNHCPggXhrh1Zc)
 
-[Video] (https://www.youtube.com/watch?v=vHYu-fna-Cs)
+[Video](https://www.youtube.com/watch?v=vHYu-fna-Cs)
 
 **DevopsDays Dallas Executive Summit - 2017 - Why Executives Can't Change**
 
-[Slides] (https://www.slideshare.net/secret/9RTEsy986ZGroJ)
+[Slides](https://www.slideshare.net/secret/9RTEsy986ZGroJ)
 
 **Keynote - RSA RSAC Devops Connect 2017 -Breaking Bad Equilibrium**
 
-[Slides] (http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2017-rsac)
+[Slides](http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2017-rsac)
 
-[Video] (https://youtu.be/W3h3cyFteXs?list=PLotLY1RC8HosrR60aQyafck5qWn2cteQq)
+[Video](https://youtu.be/W3h3cyFteXs?list=PLotLY1RC8HosrR60aQyafck5qWn2cteQq)
 
 **Evolve 2017 Las Vegas - Devops, Docker and Security**
 
-[Slides] https://www.slideshare.net/botchagalupe/evolve-2017-vegas-devops-docker-and-security
+[Slides](https://www.slideshare.net/botchagalupe/evolve-2017-vegas-devops-docker-and-security)
 
 ## 2016 
 
@@ -113,33 +113,33 @@
 
 **Devops Connect(LA) 2016 - Bad Equilibruim**
 
-[Slides] (http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2016-la)
+[Slides](http://www.slideshare.net/botchagalupe/breaking-bad-equilibrium-devops-connect-2016-la)
 
 **Alibaba Cloud Conference - Keynote Devops Track - Hangzhou China - 2016 - Docker Enterprise**
 
-[Slides] (http://www.slideshare.net/botchagalupe/alibaba-cloud-conference-2016-docker-enterprise)
+[Slides](http://www.slideshare.net/botchagalupe/alibaba-cloud-conference-2016-docker-enterprise)
 
 **Alibaba Cloud Conference - Keynote Open Sourse Community Track - Hangzhou China - 2016 - Docker Open Source**
 
-[Slides] (http://www.slideshare.net/botchagalupe/alibaba-cloud-conference-2016-docker-open-source)
+[Slides](http://www.slideshare.net/botchagalupe/alibaba-cloud-conference-2016-docker-open-source)
 
 **Devops Enterprise Summit 2016 - Beyond the Phoenix Prjoect**
 
-[Video] (https://www.youtube.com/watch?v=TvgKHNts0WQ)
+[Video](https://www.youtube.com/watch?v=TvgKHNts0WQ)
 
 
 **Devopsdays Nashville - Turning Human Capital into High Performance Orginizations**
 
 [Slides](http://www.slideshare.net/botchagalupe/all-daydevops-2016-turning-human-capital-into-high-performance-organizational-capital)
 
-[Video] (https://www.youtube.com/watch?v=-QJ2p4w4_2Q)
+[Video](https://www.youtube.com/watch?v=-QJ2p4w4_2Q)
 
 
 **All Day Devops 2016 - Turning Human Capital into High Performance Orginizations (long Version)**
 
 [Slides](http://www.slideshare.net/botchagalupe/all-daydevops-2016-turning-human-capital-into-high-performance-organizational-capital)
 
-[Video] (https://www.youtube.com/watch?v=l-8V3wNAHvA&t=45m28s)
+[Video](https://www.youtube.com/watch?v=l-8V3wNAHvA&t=45m28s)
 
 **Agile Atlanta 2016 - Turning Human Capital into High Performance Orginizations**
 
