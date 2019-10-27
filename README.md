@@ -30,6 +30,14 @@
 ### Latest:
 -----------------------------
 
+**Gene Kim & John Willis AMA for Beyond the Phoenix Project**
+
+[Video] (https://www.youtube.com/watch?v=v5lZdHjY3Go)
+
+**DOTC Deadly Diseases of DevOps**
+
+[Video] (https://www.youtube.com/watch?v=v5lZdHjY3Go)
+
 **The 7 Deadly Diseases of DevOps**
 
 [Video] (https://www.youtube.com/watch?v=QQL4WAd5b6E)
