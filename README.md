@@ -44,11 +44,19 @@
 
 ## 2019 
 
+**DevSecOps Days Austin Ignite - DevSecOps and You**
+
+[Video] (https://www.youtube.com/watch?v=K_7lTlFEicM)
+
 **QCON San Francisco - Security and Compliance Theater - The Seventh Deadly Disease**
 
 [Video] (https://www.infoq.com/presentations/security-compliance/)
 
 **Yalla Devops - Tel Avivi - DevOps' Seven Deadly Diseases**
+
+[Video] (https://www.youtube.com/watch?v=H0Xkv3tBzms)
+
+**Devops Enterprise Summit - Las Vegas - *The 7 Deadly Diseases of DevOps**
 
 [Video] (https://www.youtube.com/watch?v=H0Xkv3tBzms)
 
