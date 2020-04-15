@@ -34,7 +34,7 @@
 
 [Video] (https://vimeo.com/404795766#t=7m)
 
-**Configuration Management Camp Ghent 2020 - I got 99 problems and a bash DSL ain't one of them **
+**Configuration Management Camp Ghent 2020 - I got 99 problems and a bash DSL ain't one of them**
 
 [Video] (https://www.youtube.com/watch?v=lb698Gy8Kow)
 
