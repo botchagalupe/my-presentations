@@ -25,11 +25,37 @@
 
 [Devopsdays Turbo Encabulator](https://www.youtube.com/watch?v=iCPOWHgUKyo)
 
-## 2019 
+## 2020 
 
 ### Latest:
 -----------------------------
 
+**TechStrong.TV - Devops and Business Continuity**
+
+[Video] (https://vimeo.com/404795766#t=7m)
+
+**Configuration Management Camp Ghent 2020 - I got 99 problems and a bash DSL ain't one of them **
+
+[Video] (https://www.youtube.com/watch?v=lb698Gy8Kow)
+
+**Openshift Commons London - State of DevSecOps: The Seventh Deadly Disease -featuring John Willis**
+
+[Video] (https://www.openshift.com/blog/introduction-to-devsecops-by-john-willis-red-hat-openshift-commons-briefing)
+
+## 2019 
+
+**QCON San Francisco - Security and Compliance Theater - The Seventh Deadly Disease**
+
+[Video] (https://www.infoq.com/presentations/security-compliance/)
+
+**Yalla Devops - Tel Avivi - DevOps' Seven Deadly Diseases**
+
+[Video] (https://www.youtube.com/watch?v=H0Xkv3tBzms)
+
+**Introduction to DevSecOps by John Willis (Red Hat) - OpenShift Commons Briefing**
+
+[Video] (https://www.openshift.com/blog/introduction-to-devsecops-by-john-willis-red-hat-openshift-commons-briefing)
+  
 **Gene Kim & John Willis AMA for Beyond the Phoenix Project**
 
 [Video] (https://www.youtube.com/watch?v=v5lZdHjY3Go)
