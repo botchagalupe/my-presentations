@@ -56,9 +56,9 @@
 
 [Video] (https://www.youtube.com/watch?v=H0Xkv3tBzms)
 
-**Devops Enterprise Summit - Las Vegas - *The 7 Deadly Diseases of DevOps**
+**RSA 2019 - DevOps' Seven Deadly Diseases**
 
-[Video] (https://www.youtube.com/watch?v=H0Xkv3tBzms)
+[Video] (https://www.youtube.com/watch?v=wgT7jCdLrvM)
 
 **Introduction to DevSecOps by John Willis (Red Hat) - OpenShift Commons Briefing**
 
@@ -70,7 +70,7 @@
 
 **DOTC Deadly Diseases of DevOps**
 
-[Video] (https://www.youtube.com/watch?v=v5lZdHjY3Go)
+[Video] (https://www.youtube.com/watch?v=kxFP0FJjmpM)
 
 **The 7 Deadly Diseases of DevOps**
 
