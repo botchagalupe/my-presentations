@@ -30,6 +30,14 @@
 ### Latest:
 -----------------------------
 
+**Gitlab Summit 2020 - Automated Goverance**
+
+[Video] (https://www.youtube.com/watch?v=_j9eB0flTtY)
+
+**Jfrog SwampUp 2020 - Automated Goverance**
+
+[Video] (https://jfrog.com/user-conference/devops-automated-governance/)
+
 **TechStrong.TV - Devops and Business Continuity**
 
 [Video] (https://vimeo.com/404795766#t=7m)
