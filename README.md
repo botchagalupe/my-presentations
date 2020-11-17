@@ -30,6 +30,10 @@
 ### Latest:
 -----------------------------
 
+**John Willis talks the next frontier in mainframe modernization**
+
+[Audio] (https://podcasts.apple.com/us/podcast/john-willis-talks-next-frontier-in-mainframe-modernization/id1505531333?i=1000489480497)
+
 **Gitlab Summit 2020 - Automated Goverance**
 
 [Video] (https://www.youtube.com/watch?v=_j9eB0flTtY)
