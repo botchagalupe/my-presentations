@@ -30,6 +30,10 @@
 ### Latest:
 -----------------------------
 
+**Ghent - I got 99 problems and a bash DSL ain't one of them**
+
+[Audio] (https://youtu.be/lb698Gy8Kow)
+
 **John Willis talks the next frontier in mainframe modernization**
 
 [Audio] (https://podcasts.apple.com/us/podcast/john-willis-talks-next-frontier-in-mainframe-modernization/id1505531333?i=1000489480497)
