@@ -10,25 +10,68 @@
 >>
 [Twitter:  botchagalupe](https://twitter.com/botchagalupe)
 >>
-[Recent Blog Posts](https://medium.com/@johnwillis)
+[Blog: Profound](https://www.profound-deming.com/)
 >>
 [Linkedin: johnwillisatlanta](https://www.linkedin.com/in/johnwillisatlanta)
 >>
-[Podcast:  Devops Cafe](https://devopscafe.org)
+[Podcast: Profound](https://profound.buzzsprout.com/)
 >>
 [Author:   Linux Foundation (EDX) Introduction to DevOps: Transforming and Improving Operations
 ](https://www.edx.org/course/introduction-devops-transforming-linuxfoundationx-lfs161x)
 
->>> Random Stuff
->>
-[Devopsdays Music Jams](#devopsdays-music-jams)
+## 2023 
 
-[Devopsdays Turbo Encabulator](https://www.youtube.com/watch?v=iCPOWHgUKyo)
+**John Willis LIVE: Techstrong Con 2023**
+
+[Video] (https://vimeo.com/806406526)
+
+## 2022 
+
+**John Willis – Software Supply Chain: The Missing Links**
+
+[Video] (https://techstrong.tv/videos/appsec-api-security-2022/john-willis-software-supply-chain-the-missing-links)
+
+**DevOps Talks Conference Auckland 2022 - Investments Unlimited - A Novel**
+
+[Video] (https://www.youtube.com/watch?v=Rmz08yH8UZ8)
+
+**TechStrong Predict - John Willis – Four Lenses to Better Understand DevSecOps**
+
+[Video] (https://techstrong.tv/videos/predict-2022/john-willis-four-lenses-to-better-understand-devsecops)
+
+**TechStrong - Out of the Crisis – What Would Deming Do?**
+
+[Video] (https://techstrong.tv/videos/2022-dev-sec-ops-days/john-willis-out-of-the-crisis-what-would-deming-do-2)
+
+**DevOps Days Dallas - Andrew Clay Shafer & John Willis - Fireside Chat**
+
+[Video] (https://www.youtube.com/watch?v=CNVYXxPSH1g)
+
+**DevSecOps The Broken or Blurred Lines of Defense - John Willis - Kosli**
+
+[Video] (https://www.youtube.com/watch?v=0ptUAaBcVUc)
+
+**SLOconf 2022: John Willis - Dr Deming Would Hate OKRs**
+
+[Video] (https://www.youtube.com/watch?v=_JVW53MC18Y)
+
+**John Willis – Qualitative Analysis for Digital Transformation**
+
+[Video] (https://techstrong.tv/videos/2020-devops-experience/john-willis-qualitative-analysis-for-digital-transformation)
+
+## 2021 
+
+**jFrog SwampUp - DevSecOps - The Broken or Blurred Lines of Defense**
+
+[Video] (https://www.youtube.com/watch?v=CKMEe0SEJKE)
+
+
 
 ## 2020 
 
-### Latest:
------------------------------
+**Devops Enterpris Summit 2020 DevOps 2020 - The Next Decade - John Willis**
+
+[Video] (https://www.youtube.com/watch?v=dl-WUUO319U)
 
 **Ghent - I got 99 problems and a bash DSL ain't one of them**
 
@@ -618,3 +661,8 @@
 
 -----------------------------
 
+>>> Random Stuff
+>>
+[Devopsdays Music Jams](#devopsdays-music-jams)
+
+[Devopsdays Turbo Encabulator](https://www.youtube.com/watch?v=iCPOWHgUKyo)
