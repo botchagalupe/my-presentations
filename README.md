@@ -8,6 +8,10 @@
 >>
 [Author:   BEYOND THE PHOENIX PROJECT (AUDIOBOOK)](https://itrevolution.com/book/beyond-phoenix-project-audiobook/)
 >>
+[Author:   Investements Unlimited] (https://itrevolution.com/product/investments-unlimited/)
+>>
+[Author:   Deming’s Journey to Profound Knowledge] (https://itrevolution.com/product/demings-journey-to-profound-knowledge/)
+>>
 [Twitter:  botchagalupe](https://twitter.com/botchagalupe)
 >>
 [Blog: Profound](https://www.profound-deming.com/)
