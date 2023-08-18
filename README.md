@@ -29,6 +29,23 @@
 
 [Video] (https://vimeo.com/806406526)
 
+**John Willis - Burnout - DevOpsDays Raleigh 2023**
+
+[Video] (https://www.youtube.com/watch?v=5IZvu2XKCuE)
+
+**John Willis - Red Risk Experiment - DevOpsDays Amsterdam 2023**
+
+[Video] (https://www.youtube.com/watch?v=cY_OEKWPlv4&t=3s)
+
+**DOES23 Amsterdam - The Operationalism of DevSecOps**
+
+[Video] (https://videos.itrevolution.com/watch/830906821/)
+
+**Katie Anderson Japan Study Trip 2023 (not quite an ignite))**
+
+[Video] (https://www.youtube.com/watch?v=bMmzELXZP1A)
+
+
 ## 2022 
 
 **John Willis – Software Supply Chain: The Missing Links**
