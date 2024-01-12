@@ -25,6 +25,14 @@
 
 ## 2023 
 
+**DevOpsDays Dallas - The Anatomy of an LLM**
+
+[Video] (https://www.youtube.com/watch?v=KHQswFk5WeQ)
+
+**AutoCon 0 Day One Keynote: John Willis**
+
+[Video] (https://www.youtube.com/watch?v=S2atmZlASAs)
+
 **John Willis LIVE: Techstrong Con 2023**
 
 [Video] (https://vimeo.com/806406526)
